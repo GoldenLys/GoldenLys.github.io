@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: goldenlys.github.io
+Token: efe30373eeb8559bae16d40db6a84202d28e222bc7719d370df37eadfa5e0a9a
